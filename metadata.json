@@ -1,0 +1,6 @@
+{
+  "name": "Planificador ELE - MCER & PCIC Instituto Cervantes",
+  "description": "Generador pedagógico experto de unidades didácticas de Español como Lengua Extranjera (ELE) conforme al MCER y al Plan Curricular del Instituto Cervantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
